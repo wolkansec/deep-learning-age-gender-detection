@@ -43,10 +43,8 @@ Python, OpenCV ve derin öğrenme modelleri kullanarak görüntülerden yüz tes
 
 ### Model Dosyaları
 GitHub dosya boyutu limitleri nedeniyle model dosyaları repoya eklenememiştir. Aşağıdaki indirme linkleri verilen model dosyaları indirilip projedeki "/model" dizinine taşınması gerekilmektedir.
-```bash
-- age_net.caffemodel https://drive.google.com/file/d/1C1l9ckLS8YhU9Uxnn3q8mPzPwxkXEQu5
-- gender_net.caffemodel https://drive.google.com/file/d/12j2mxYfUC5DS_OJl6Y4lOmKPjlkmkUmr
-```
+- age_net.caffemodel <a href="https://drive.google.com/file/d/1C1l9ckLS8YhU9Uxnn3q8mPzPwxkXEQu5">https://drive.google.com/file/d/1C1l9ckLS8YhU9Uxnn3q8mPzPwxkXEQu5</a>
+- gender_net.caffemodel <a href="https://drive.google.com/file/d/12j2mxYfUC5DS_OJl6Y4lOmKPjlkmkUmr">https://drive.google.com/file/d/12j2mxYfUC5DS_OJl6Y4lOmKPjlkmkUmr</a>
 
 ### Adımlar
 ```bash
