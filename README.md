@@ -1,5 +1,5 @@
 # OpenCV ile Age & Gender Tespiti
-Python, OpenCV ve derin öğrenme modelleri kullanarak görüntülerden yüz tespiti yapıp, tespit edilen yüzler üzerinden yaş ve cinsiyet tahmini gerçekleştiren bir yapay zeka projesidir.
+Python, OpenCV ve derin öğrenme modelleri kullanarak görüntülerden yüz tespiti yapıp, tespit edilen yüzler üzerinden yaş ve cinsiyet tahmini gerçekleştiren bir derin öğrenme projesidir.
 
 ## Özellikler
 - Yüz tespiti
