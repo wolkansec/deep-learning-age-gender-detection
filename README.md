@@ -31,8 +31,8 @@ Python, OpenCV ve derin öğrenme modelleri kullanarak görüntülerden veya vid
 
 ### Örnekler
 <p align="center">
-  <img src="detection_examples/ScreenShot1.jpg" width="32%" />
-  <img src="detection_examples/ScreenShot2.jpg" width="32%" />w
+  <img src="detection_examples/ScreenShot1.jpg" width="45%" />
+  <img src="detection_examples/ScreenShot2.jpg" width="45%" />w
 </p>
 
 ## Kurulum
